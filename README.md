@@ -181,7 +181,7 @@ Feel free to submit issues and pull requests. Suggestions for improvements inclu
 
 ## Contact
 
-For questions or support, contact: \[khayal.aghazada.x@gmail.com or (https://github.com/Khayal-Aghazada)]
+For questions or support, contact: khayal.aghazada.x@gmail.com or https://github.com/Khayal-Aghazada
 
 ---
 
