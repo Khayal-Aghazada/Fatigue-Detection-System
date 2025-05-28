@@ -1,0 +1,16 @@
+{
+  "blink": {
+    "alpha": 0.1,
+    "threshold_delta": 0.0211095336202659,
+    "hysteresis_frames": 1
+  },
+  "head_pose": {
+    "pitch_threshold": -174.0160213344571,
+    "sustain_time": 3.0
+  },
+  "baseline": {
+    "avg_ear": 0.26163431627236694,
+    "avg_pitch": -175.18533933908142,
+    "blink_rate": 34.0
+  }
+}

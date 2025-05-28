@@ -1,0 +1,852 @@
+[
+  {
+    "test_id": 1,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 23
+    }
+  },
+  {
+    "test_id": 2,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 36
+    }
+  },
+  {
+    "test_id": 3,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 22
+    }
+  },
+  {
+    "test_id": 4,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 20
+    }
+  },
+  {
+    "test_id": 5,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 23
+    }
+  },
+  {
+    "test_id": 6,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 36
+    }
+  },
+  {
+    "test_id": 7,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 22
+    }
+  },
+  {
+    "test_id": 8,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 32
+    }
+  },
+  {
+    "test_id": 9,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 38
+    }
+  },
+  {
+    "test_id": 10,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 15
+    }
+  },
+  {
+    "test_id": 11,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 16
+    }
+  },
+  {
+    "test_id": 12,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 36
+    }
+  },
+  {
+    "test_id": 13,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 20
+    }
+  },
+  {
+    "test_id": 14,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 24
+    }
+  },
+  {
+    "test_id": 15,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 18
+    }
+  },
+  {
+    "test_id": 16,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 33
+    }
+  },
+  {
+    "test_id": 17,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 37
+    }
+  },
+  {
+    "test_id": 18,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 17
+    }
+  },
+  {
+    "test_id": 19,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 28
+    }
+  },
+  {
+    "test_id": 20,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 21
+    }
+  },
+  {
+    "test_id": 21,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 26
+    }
+  },
+  {
+    "test_id": 22,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 31
+    }
+  },
+  {
+    "test_id": 23,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 33
+    }
+  },
+  {
+    "test_id": 24,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 20
+    }
+  },
+  {
+    "test_id": 25,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 26
+    }
+  },
+  {
+    "test_id": 26,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 35
+    }
+  },
+  {
+    "test_id": 27,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 29
+    }
+  },
+  {
+    "test_id": 28,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 22
+    }
+  },
+  {
+    "test_id": 29,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 37
+    }
+  },
+  {
+    "test_id": 30,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 28
+    }
+  },
+  {
+    "test_id": 31,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 23
+    }
+  },
+  {
+    "test_id": 32,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 31
+    }
+  },
+  {
+    "test_id": 33,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 19
+    }
+  },
+  {
+    "test_id": 34,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 33
+    }
+  },
+  {
+    "test_id": 35,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 24
+    }
+  },
+  {
+    "test_id": 36,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 38
+    }
+  },
+  {
+    "test_id": 37,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 17
+    }
+  },
+  {
+    "test_id": 38,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 28
+    }
+  },
+  {
+    "test_id": 39,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 22
+    }
+  },
+  {
+    "test_id": 40,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 31
+    }
+  },
+  {
+    "test_id": 41,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 33
+    }
+  },
+  {
+    "test_id": 42,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 18
+    }
+  },
+  {
+    "test_id": 43,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 35
+    }
+  },
+  {
+    "test_id": 44,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 20
+    }
+  },
+  {
+    "test_id": 45,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 29
+    }
+  },
+  {
+    "test_id": 46,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 27
+    }
+  },
+  {
+    "test_id": 47,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 37
+    }
+  },
+  {
+    "test_id": 48,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 16
+    }
+  },
+  {
+    "test_id": 49,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 35
+    }
+  },
+  {
+    "test_id": 50,
+    "blink": {
+      "alpha": 0.1,
+      "threshold_delta": 0.013388565315660272,
+      "hysteresis_frames": 3
+    },
+    "head_pose": {
+      "pitch_threshold": -174.43912787190985,
+      "sustain_time": 3.0
+    },
+    "baseline": {
+      "avg_ear": 0.23079982660389456,
+      "avg_pitch": -174.43912787190985,
+      "blink_rate": 23
+    }
+  }
+]
