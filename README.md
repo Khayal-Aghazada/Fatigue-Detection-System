@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a real-time fatigue detection system leveraging facial landmark analysis via **MediaPipe Face Mesh** combined with behavioral metrics such as blink rate, eye closure duration, head pose deviations, and yawning detection. The system captures video from a webcam, processes face landmarks, calculates relevant fatigue indicators, and alerts the user upon detecting signs of drowsiness or fatigue.
+This project implements a real-time fatigue detection system leveraging facial landmark analysis via **MediaPipe Face Mesh** combined with behavioral metrics such as blink rate, eye closure duration, head pose deviations, and yawning detection. The system captures video from a webcam, processes face landmarks, calculates relevant fatigue indicators, and alerts the user upon detecting signs of drowsiness or fatigue. Videos of testing are below in youtube link.
 
 ---
 
@@ -176,6 +176,13 @@ Feel free to submit issues and pull requests. Suggestions for improvements inclu
 * Enhancing mobile compatibility and creating native apps
 * Improving UI and alerting mechanisms
 * Adding data logging and reporting
+
+---
+
+Testing video links:
+https://youtu.be/edc16mRqpAI
+https://youtu.be/ztCU1SqB2EM
+https://youtu.be/Gpzoid237Pg
 
 ---
 
